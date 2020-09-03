@@ -1,5 +1,5 @@
 # Creator: Nathan A
-# Description: Does your vocab for you
+# Description: 4 Turtles race
 # Creation Date: 8/3/2020
 # Update Date: 
 import turtle as t
