@@ -1,3 +1,7 @@
+# Creator: Nathan A
+# Description: Does your vocab for you
+# Creation Date: 8/3/2020
+# Update Date: 
 import turtle as t
 import random
 import time
